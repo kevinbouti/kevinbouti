@@ -1,4 +1,4 @@
-# Hi, I'm Kevin
+# Hi,
 
 ## Open source
 
