@@ -24,7 +24,13 @@ Normandy, France · [Founder page](https://www.verisav.fr/en/founders/kevin-bout
 | **[react.dev](https://react.dev)** | [PR #8342](https://github.com/reactjs/react.dev/pull/8342) — props reference formatting |
 | **[Next.js](https://nextjs.org)** | [PR #91055](https://github.com/vercel/next.js/pull/91055) — Contributing docs wording |
 
-**Semantic vocabularies (LOV):** [DPP](https://lov.linkeddata.es/dataset/lov/vocabs/dpp) · [RMA](https://lov.linkeddata.es/dataset/lov/vocabs/rma) · [WTY](https://lov.linkeddata.es/dataset/lov/vocabs/wty) — namespaces at [ns.verisav.fr](https://ns.verisav.fr/dpp)
+### EU Digital Product Passport (open RDF/OWL)
+
+[![LOV](https://img.shields.io/badge/LOV-DPP-brightgreen)](https://lov.linkeddata.es/dataset/lov/vocabs/dpp)
+[![W3ID](https://img.shields.io/badge/W3ID-verisav-blue)](https://w3id.org/verisav/dpp)
+[![Release](https://img.shields.io/github/v/release/Verisav/vocabularies?label=vocabularies)](https://github.com/Verisav/vocabularies/releases/latest)
+
+**[Verisav/vocabularies](https://github.com/Verisav/vocabularies)** — **DPP · RMA · WTY** aligned with **ESPR (EU 2024/1781)** (batteries Feb 2027, sector delegated acts), GS1, UNTP, W3C VC & EU Business Wallet · [ns.verisav.fr/dpp](https://ns.verisav.fr/dpp/) · [LOV](https://lov.linkeddata.es/dataset/lov/vocabs/dpp) · [Zenodo](https://doi.org/10.5281/zenodo.18352147)
 
 **npm:** [@verisav/gs1-dpp-utils](https://www.npmjs.com/package/@verisav/gs1-dpp-utils) · [@verisav/dpp-verifiable-credentials](https://www.npmjs.com/package/@verisav/dpp-verifiable-credentials) · [@verisav/graphql-rdf-vocabularies](https://www.npmjs.com/package/@verisav/graphql-rdf-vocabularies)
 
