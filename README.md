@@ -1,6 +1,6 @@
 # Kévin Boutillier
 
-**Co-founder & CEO @ [Verisav](https://www.verisav.fr)** · **Co-founder @ [Daremeet](https://www.daremeet.com)**  
+**Co-founder & CEO @ [Verisav](https://www.verisav.fr)** · **Co-founder & CEO @ [Daremeet](https://www.daremeet.com)**  
 After-sales, Digital Product Passport (EU DPP) · Real-life meetups — *less screen, more life.*
 
 Normandy, France · [Founder page](https://www.verisav.fr/en/founders/kevin-boutillier) · [LinkedIn](https://www.linkedin.com/in/k%C3%A9vinboutillier)
