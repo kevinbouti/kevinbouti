@@ -1,3 +1,5 @@
+<img src="assets/github-project-cover.jpg" width="100%" alt="Developer workspace — research engineering and code">
+
 # Kévin Boutillier
 
 **Research engineer · semantic web · authority metadata · regulatory knowledge graphs**
