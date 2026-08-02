@@ -168,8 +168,12 @@ Not demos — **production systems**:
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=kevinbouti&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinbouti&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top languages" />
+<a href="https://github.com/kevinbouti">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=kevinbouti&amp;show_icons=true&amp;theme=dark&amp;hide_border=true&amp;include_all_commits=true" alt="GitHub stats" />
+</a>
+<a href="https://github.com/kevinbouti">
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kevinbouti&amp;layout=compact&amp;theme=dark&amp;hide_border=true&amp;langs_count=8" alt="Top languages" />
+</a>
 
 </div>
 
